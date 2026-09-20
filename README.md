@@ -6,6 +6,8 @@ model, aur REST API.
 ## Setup
 
 ```bash
+git clone https://github.com/gauravgn90/CustomerChurnMachineLearning.git
+cd CustomerChurnMachineLearning
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
